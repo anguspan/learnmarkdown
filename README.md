@@ -37,3 +37,12 @@
 
  **this is a boldface font**   *this is a italic*
 
+
+
+# 6
+
+| Tables       | Are     | Cool  |
+| ------------ |:-------:| -----:|
+| Row 1 is     | col     | $1600 |
+| Row 2 is     | rol     | $164  |
+| Row 3 is     | dol     | $16   |
