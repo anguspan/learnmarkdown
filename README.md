@@ -46,3 +46,14 @@
 | Row 1 is     | col     | $1600 |
 | Row 2 is     | rol     | $164  |
 | Row 3 is     | dol     | $16   |
+
+
+# 7
+
+ `helloworld.java`
+ ` //helloworld.java
+  public class Hello {
+  	public static void main(String[] args) {
+  		System.out.print("Hello Java");
+  	}
+  }`
