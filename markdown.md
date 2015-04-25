@@ -1,4 +1,4 @@
-![mahua](mahua-logo.jpg)
+![mahua](https://github.com/apple-touch-icon-114.png)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
